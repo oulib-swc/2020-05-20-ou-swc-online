@@ -9,7 +9,7 @@ country: "us"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "35.207982"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-97.445845"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "May 20, 27 June 3, 10, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "<p>Four Consecutive Wednesdays</p> <p>May 20, 27 June 3, 10, 2020</p>"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00am - 12:30pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-05-20      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-06-10        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
@@ -83,6 +83,18 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<h2> Registration</h2>
+
+<div class="alert alert-danger">
+  Need to include registration link here. 
+</div>
+
+
+<p> Registration is required. Registration is limited to 14 learners and will remain open until filled. There is also a need for you to select your computing language preference. Note that we require that at least a minimum of 4 learners sign up for a language in order for the section to be a go for the workshop. 
+</p>
+
+<p>Please if you find that you cannot attend, please unregister so that someone else can sign up.
+</p>
 
 <h2 id="general">General Information</h2>
 
