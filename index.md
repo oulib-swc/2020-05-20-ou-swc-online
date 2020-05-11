@@ -93,7 +93,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <p> Registration is required. Registration is limited to 14 learners and will remain open until filled. There is also a need for you to select your computing language preference. Note that we require that at least a minimum of 4 learners sign up for a language in order for the section to be a go for the workshop. 
 </p>
 
-<p>Please if you find that you cannot attend, please unregister so that someone else can sign up.
+<p>If you find that you cannot attend, please unregister so that someone else can sign up.
 </p>
 
 <h2 id="general">General Information</h2>
