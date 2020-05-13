@@ -85,13 +85,16 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2> Registration</h2>
 
-<div class="alert alert-danger">
+<!-- <div class="alert alert-danger">
   Need to include registration link here. 
+</div> -->
+
+
+<p> <A href="https://libcal.ou.edu/event/6715194">Registration is required</A>. Registration is limited to 14 learners and will remain open until filled. There is also a need for you to select your computing language preference. <A href="https://libcal.ou.edu/event/6715194"> Make your choice </A> for which computing language section, R or Python, that you wish to attend. 
+<div class="alert alert-danger">
+Note that we require that at least a minimum of 4 learners for a computing language section on order to be able to offer.
+
 </div>
-
-
-<p> Registration is required. Registration is limited to 14 learners and will remain open until filled. There is also a need for you to select your computing language preference. Note that we require that at least a minimum of 4 learners sign up for a language in order for the section to be a go for the workshop. 
-</p>
 
 <p>If you find that you cannot attend, please unregister so that someone else can sign up.
 </p>
