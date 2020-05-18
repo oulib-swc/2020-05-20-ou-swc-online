@@ -16,7 +16,7 @@ enddate: 2020-06-10        # machine-readable end date for the workshop in YYYY-
 
 instructor: ["Logan Cox (shell)", "Michael Malahy (python)", "Mark Laufersweiler (Git)"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 
-helper: ["Theo Acker", "Claire Curry","Jim Ferguson", "Toni Hoberecht","Krista Kezbers", "Mark Laufersweiler","Mahbboeh Lesani","Tyler Pearson", "Horst Severini","Amanda Schilling"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Theo Acker", "Claire Curry","Jim Ferguson", "Toni Hoberecht","Krista Kezbers", "Mark Laufersweiler","Mahbboeh Lesani","Tyler Pearson", "Amanda Schilling", "Horst Severini"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 
 email: ["laufers@ou.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2020-05-20-ou-swc-online # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
